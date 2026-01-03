@@ -1,6 +1,15 @@
-# Transaction Fraud Detection
+# Transaction Fraud Detection – ML Pipeline
 
-A data science project to predict whether a transaction is a fraud or not.
+This project implements a machine learning-based pipeline to detect fraudulent transactions.
+The project has been customized and enhanced for academic and portfolio use.
+
+## Key Features
+- Transaction fraud detection using machine learning
+- Feature engineering on transaction amount and behavior
+- Model training and evaluation using Python
+- REST API for live transaction scoring
+- Fraud analysis and visualization using Power BI
+
 
 <div align="center">
     <img alt="Transaction Fraud Detection" src="./reports/figures/high-angle-credit-card-with-hook-phishing.jpg" width="100%" height="300">
@@ -197,3 +206,8 @@ The company may expect a revenue of R\$ 57,251,574.44. This result may show the 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
+
+## Author
+
+Enhanced and maintained by Devesh Sachin Surana
+

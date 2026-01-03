@@ -203,6 +203,18 @@ The company may expect a revenue of R\$ 57,251,574.44. This result may show the 
 
 * Implement the api on the heroku plataform.
 
+## API Usage
+The project includes a Flask-based REST API for real-time transaction fraud prediction.
+
+**Endpoint:** `/predict`
+
+**Method:** POST
+
+**Input:** Transaction amount and velocity
+
+**Output:** Fraud prediction (0 = Legitimate, 1 = Fraud)
+
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
